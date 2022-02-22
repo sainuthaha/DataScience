@@ -1,2 +1,18 @@
 Data Science:
+ Flow:
+ To solve a business problem, data team will do sufficient work on the data.
+ Then the BI intelligence team will provide business insights(dashboard)
+ Then data science team will use some kind of model to predict the future
+ 
+ Evolution & confusion in terminology:
+   Data science industry evolved a lot through the years.
+    Around 25 years ago:
+     statistician was responsible for gathering and analayzing data and applying statistics on the data. With the growth of technology and data, now the statistician had to 
+     find patterns  in the data and this lead to data mining. Forward to few more years, now he could perform more analytics leading to predictive analytics,
+     thus the term data science was coined.
+  
+  
+     
+     
+     
   
